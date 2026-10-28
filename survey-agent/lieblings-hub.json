@@ -1,0 +1,17 @@
+{
+  "interface": "custom_ui",
+  "runtime": {
+    "needsDatabase": false
+  },
+  "compatibility": {
+    "sdkVersion": "0.13.0",
+    "bridgeProtocolVersion": 1
+  },
+  "miniApp": {
+    "protocolVersion": 1,
+    "mobileCompatible": true,
+    "scopes": [
+      "identity.basic"
+    ]
+  }
+}
