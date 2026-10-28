@@ -1,4 +1,4 @@
-export const surveyTitle = 'Basis';
+export const surveyTitle = 'Entwickler Konflikt – behalten';
 // synthetic survey fixture
 // independent text hunks must survive
 // a developer push while a draft is open
