@@ -6,4 +6,4 @@ export const surveyTitle = 'Basis';
 // are imported into this fixture
 // these separating lines are intentional
 // and keep the two edits disjoint
-export const surveyFooter = 'Basis';
+export const surveyFooter = 'Dev übernommen';
