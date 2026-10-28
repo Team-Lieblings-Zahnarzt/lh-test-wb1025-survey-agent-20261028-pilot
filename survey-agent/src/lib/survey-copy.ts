@@ -1,4 +1,4 @@
-export const surveyTitle = 'Entwickler Konflikt – behalten';
+export const surveyTitle = 'Basis';
 // synthetic survey fixture
 // independent text hunks must survive
 // a developer push while a draft is open
@@ -6,4 +6,4 @@ export const surveyTitle = 'Entwickler Konflikt – behalten';
 // are imported into this fixture
 // these separating lines are intentional
 // and keep the two edits disjoint
-export const surveyFooter = 'Dev übernommen';
+export const surveyFooter = 'Basis';
