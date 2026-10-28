@@ -7,7 +7,7 @@ export default function SurveyPage() {
   return <main style={{maxWidth:640,margin:'48px auto',padding:24,fontFamily:'system-ui'}}>
     <p>WB-1025 · ausschließlich synthetische Testdaten</p>
     <h1>Survey-Agent – Test</h1><h2>{surveyTitle}</h2>
-    <p>Plattformstand: Agent mit PR</p>
+    <p>Plattformstand: Basis</p>
     <label>Testantwort <input value={answer} onChange={e=>setAnswer(e.target.value)} /></label>
     <button onClick={()=>setSaved(true)}>Testantwort merken</button>
     {saved && <p role="status">Gespeichert: {answer}</p>}
