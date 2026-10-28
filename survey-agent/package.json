@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@lieblings-hub/app-sdk": "file:.lieblings-hub/internal-preview/lieblings-hub-app-sdk-0.13.0.tgz",
+    "jose": "6.2.3",
     "next": "16.4.3",
     "react": "19.2.5",
     "react-dom": "19.2.5"
