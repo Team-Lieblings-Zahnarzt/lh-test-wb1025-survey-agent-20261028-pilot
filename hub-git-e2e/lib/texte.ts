@@ -1,1 +1,1 @@
-export const FUSSZEILE = 'Fußzeile: von der Kollegin';
+export const FUSSZEILE = 'Fußzeile: Start';
