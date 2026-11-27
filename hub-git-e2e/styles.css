@@ -1,0 +1,6 @@
+/*
+ * Eigene Stile der App (optional). Diese Datei wirkt über allem: über der UI-Bibliothek und über
+ * Tailwind-Klassen. Farben der Marke kommen als Variablen (--primary, --muted-foreground …);
+ * hier lassen sie sich für diese App überschreiben, z. B.:
+ *   :root { --primary: oklch(0.55 0.2 260); }
+ */
